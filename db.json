@@ -2,13 +2,12 @@
     
      "douglasdias": [
      {
-        "id": 1,
+        "clientid": 1,
+        "lote": "",
         "numero": "",
-        "Mensagem": "",
-        "logo": "",
-        "banner": "",
+        "mensagem": "",
         "arquivo": "",
-        "nfile": ""
+        "novo ": ""
       }
     ]
 }
