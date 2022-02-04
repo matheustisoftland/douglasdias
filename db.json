@@ -1,0 +1,27 @@
+{
+    
+     "goesc": [
+     {
+        "id": 1,
+        "numero": "",
+        "Mensagem": "",
+        "logo": "",
+        "banner": "",
+        "arquivo": "",
+        "nfile": ""
+      }
+    ],
+     
+     "goesr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+     
+     
+ 
+}
